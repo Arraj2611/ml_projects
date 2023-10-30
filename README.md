@@ -5,3 +5,4 @@
   * We're dealing with images (unstructured data) so it's probably best we use deep learning or transfer learning.
   * There are 120 breeds of dogs i.e 120 different classes.
   * The URL of the model we want to use from TensorFlow Hub - https://tfhub.dev/google/imagenet/mobilenet_v2_130_224/classification/4
+  * The model used is mobilenet_v2 from TensorFlow Hub.
