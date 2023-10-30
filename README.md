@@ -1,6 +1,6 @@
 # AI/ML projects
   A repo containing all my ai/ml based projects
-## 1. Dog_breed Identifier using `TransferLearning`
+## 1. Dog_breed Identifier using *TransferLearning*
   * Dataset involved is from `kaggle` - https://www.kaggle.com/c/dog-breed-identification/data
   * We're dealing with images (unstructured data) so it's probably best we use deep learning or transfer learning.
   * There are 120 breeds of dogs i.e 120 different classes.
