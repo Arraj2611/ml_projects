@@ -6,3 +6,9 @@
   * There are 120 breeds of dogs i.e 120 different classes.
   * The model used is [mobilenet_v2](https://tfhub.dev/google/imagenet/mobilenet_v2_130_224/classification/4) from `TensorFlow Hub`.
 ---
+## 2. Insurance charges prediction using Neural Network *Regression*
+  * Dataset used is from `kaggle`:- [Medical Cost Personal Datasets](https://github.com/stedy/Machine-Learning-with-R-datasets/blob/master/insurance.csv)
+  * Model used `keras` :- [Sequential](https://keras.io/guides/sequential_model/) model with [Dense](https://keras.io/api/layers/core_layers/dense/) layers
+  * Optimizers :- [SGD](https://keras.io/api/optimizers/sgd/) and [Adam](https://keras.io/api/optimizers/adam/)
+  * Metrics :- [MAE](https://keras.io/api/metrics/regression_metrics/#meanabsoluteerror-class)
+---
